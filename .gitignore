@@ -1,0 +1,33 @@
+# === Visual Studio Junk ===
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.user
+*.aps
+*.pdb
+*.intermediate.obj
+*.VC.db
+*.VC.opendb
+*.suo
+*.sln.docstates
+
+# === Build Output ===
+bin/
+obj/
+out/
+
+# === Temporary Files ===
+*.log
+*.tmp
+*.bak
+
+# === External Dependencies (Optional) ===
+# If you eventually add libraries like GLFW or Glad, ignore their build artifacts
+external/*/build/
+external/*/bin/
+
+# === System Files ===
+.DS_Store
+Thumbs.db
